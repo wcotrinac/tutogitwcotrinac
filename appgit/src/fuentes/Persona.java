@@ -12,7 +12,7 @@ public class Persona {
 	
 	//cambio1.4
 	
-	
+
 	
 	private String nombre;
 	private String apellido;
