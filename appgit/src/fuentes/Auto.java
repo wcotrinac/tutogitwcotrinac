@@ -38,4 +38,10 @@ public class Auto {
 
 	private String apeMaterno;
 	
+	private String dni;
+	
+	private String altura;
+	
+	
+	
 }
