@@ -1,8 +1,8 @@
 package fuentes;
 
-public class Persona {
+public class Auto {
 	
-	//cambio1
+	//cambio2
 	
 	private String nombre;
 
