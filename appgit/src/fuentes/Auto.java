@@ -17,6 +17,11 @@ public class Auto {
 	//cambio2.13
 	//cambio2.15
 	
+	
+	private String peso;
+	
+	private String color;
+	
 	private String nombre;
 
 	public String getNombre() {
