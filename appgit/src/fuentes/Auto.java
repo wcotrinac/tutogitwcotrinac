@@ -7,6 +7,7 @@ public class Auto {
 	//cambio2.4
 	//cambio2.3
 	//cambio2.6
+	//cambio2.5
 	
 	private String nombre;
 
