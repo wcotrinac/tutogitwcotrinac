@@ -3,6 +3,7 @@ package fuentes;
 public class Auto {
 	
 	//cambio2.1
+	//cambio2.2
 	
 	private String nombre;
 
