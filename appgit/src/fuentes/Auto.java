@@ -15,6 +15,7 @@ public class Auto {
 	//cambio2.12
 	//cambio2.14
 	//cambio2.13
+	//cambio2.15
 	
 	private String nombre;
 
@@ -26,6 +27,12 @@ public class Auto {
 		this.nombre = nombre;
 	}
 	
+	private String apellido;
 	
+	//cambio2.16
+	
+	//cambio2.17
+	
+	//cambio2.18
 	
 }
