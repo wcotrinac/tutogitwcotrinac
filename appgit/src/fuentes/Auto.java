@@ -11,6 +11,8 @@ public class Auto {
 	//cambio2.7
 	//cambio2.8
 	//cambio2.10
+	//cambio2.12
+	
  	
 	private String nombre;
 
