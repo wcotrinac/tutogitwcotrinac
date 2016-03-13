@@ -27,5 +27,7 @@ public class Auto {
 	}
 	
 	
+	private String apeMaterno;
+	
 	
 }
