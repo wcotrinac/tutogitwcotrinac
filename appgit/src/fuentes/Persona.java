@@ -3,6 +3,7 @@ package fuentes;
 public class Persona {
 	
 	//cambio1.1
+	//cambio1.2
 	
 	private String nombre;
 
@@ -13,6 +14,7 @@ public class Persona {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
+	
 	
 	
 	
